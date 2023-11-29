@@ -1,1 +1,9 @@
 console.log('Hello World');
+let word = ("Hello") => {
+    console.log('word');
+}
+
+
+let 
+
+
