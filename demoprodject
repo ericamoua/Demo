@@ -6,4 +6,5 @@ let myName = 'Erica'=> {
     console.log(myName);
 }
 
+console.log(dabin);
 
