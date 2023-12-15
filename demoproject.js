@@ -58,4 +58,8 @@ for (const element of myfavoriteAnimal){
 const myPetsName = ['dabin', 'kiki', 'dabi']
 myPetsName.forEach(petsName => console.log(`My pet name is ${myPetsName}.`));
 
-helloworld
+//.map() method 
+const myKidsAge = [12, 11, 15, 21];
+const ageDifference = myKidsAge.map(num => myAge -25);
+
+console.log(ageDifference);
