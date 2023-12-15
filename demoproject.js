@@ -57,3 +57,5 @@ for (const element of myfavoriteAnimal){
 //forEach method
 const myPetsName = ['dabin', 'kiki', 'dabi']
 myPetsName.forEach(petsName => console.log(`My pet name is ${myPetsName}.`));
+
+helloworld
